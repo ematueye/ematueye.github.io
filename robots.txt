@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ematueye.github.io/XIc/sitemap_index.txt
+Sitemap: https://ematueye.github.io/pPT/sitemap_index.txt
+Sitemap: https://ematueye.github.io/tiX/sitemap_index.txt
+Sitemap: https://ematueye.github.io/tuF/sitemap_index.txt
